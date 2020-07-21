@@ -1,0 +1,12 @@
+.SearchBarContainer {
+    background-color: black;
+    padding: 10px;
+}
+.BtnAdd {
+    border: 1px solid greenyellow;
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    margin-left: 10px;
+
+}
